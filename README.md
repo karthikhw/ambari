@@ -32,4 +32,4 @@ Is ambari URL secure (y/n)? (HTTPS/HTTP):
 
 Run the script from one of Ambari Server. 
 
-It uses curl request for retrieving the service configuration from Ambari.
+It uses curl request for retrieving the service configurations from Ambari.
