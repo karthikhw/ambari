@@ -1,6 +1,6 @@
 # ambari
 
-##Cluster Configuration comparision
+##Comparing Clusters configurations
 
 ###Purpose
 
