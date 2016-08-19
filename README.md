@@ -28,7 +28,7 @@ Clustername :
 Is ambari URL secure (y/n)? (HTTPS/HTTP):
 
 
-###Notes 
+###Note 
 
 Run the script from one of Ambari Server. 
 
