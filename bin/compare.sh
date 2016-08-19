@@ -2,9 +2,9 @@
 
 #############################################################################################
 #                                                                                            #
-#   This Utility is to collect and compare the Hadoop configurations from multiple cluster   #
-#   It uses Curl request for retrieving service configuration from Ambari                    #
-#   **Run this script in one of the ambari-server node                                       #
+#   This Utility is to collect and compare the Hadoop configurations between clusters        #
+#   Service configurations are retrieved from ambari via the curl request                    #
+#   Note : Run it in ambari server                                                           #
 #                                                                                            #
 #############################################################################################
 
